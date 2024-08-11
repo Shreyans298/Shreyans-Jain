@@ -20,3 +20,4 @@ I'm a Web Development Enthusiast. Building projects and learning different thing
 
 
 <!-- Badge generator: https://kapasia-dev-ed.my.site.com/Badges4Me/s/ -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyans298&show_icons=true)
