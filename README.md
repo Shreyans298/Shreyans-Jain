@@ -20,4 +20,3 @@ I'm a Web Development Enthusiast. Building projects and learning different thing
 
 
 <!-- Badge generator: https://kapasia-dev-ed.my.site.com/Badges4Me/s/ -->
-![Shreyans's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyans298&theme=react&show_icons=true&hide_border=true&layout=compact)
